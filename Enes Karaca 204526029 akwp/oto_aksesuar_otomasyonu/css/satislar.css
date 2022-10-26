@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+.hizalama_bitir{clear:both;}
+
+a{text-decoration:none;
+	color: #535353;
+}
+.satis_yazi{
+	border: 1px solid #DCD9D9;
+	border-radius:10px;
+	text-align:center;
+	width: 96px;
+	height: auto;
+	float: left;
+	margin-left: 10px;
+	color:#fff;
+}
+.satis_yazi:hover{
+	transition-duration: 1s;
+	background-color:#8588C9;
+	opacity: 1.1;
+	box-shadow: 2px 5px 10px 4px rgb(0 0 0 / 40%);
+}
+.adet_yazim{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	float: left;
+	color:#fff;
+}
+.adet_gerim{
+	width: 30px;
+	height: 27px;
+	float: left;
+	margin-left: 345px;
+}
+.metin_input{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	float: left;
+	border-radius: 5px;
+}
+.buton_yeri{
+	border-radius: 10px;
+	width: auto;
+	height: auto;
+	float: left;
+	margin-left:5px;
+	cursor:pointer;
+}
+.buton_yeri:hover{
+	transition-duration: 1s;
+	background-color:#8588C9;
+	opacity: 1.1;
+	box-shadow: 2px 5px 10px 4px rgb(0 0 0 / 40%);
+}
+
+
+
+
+
+
+

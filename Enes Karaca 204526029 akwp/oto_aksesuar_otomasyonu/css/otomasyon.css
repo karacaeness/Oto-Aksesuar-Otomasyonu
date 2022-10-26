@@ -1,0 +1,116 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.hizalama_bitir{clear:both;}
+body{
+background: #BBD2C5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #292E49, #536976, #BBD2C5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #292E49, #536976, #BBD2C5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+
+
+
+}
+
+a{text-decoration:none;
+	color: #535353;
+}
+
+
+
+.otomasyon_ana_divim{
+	width: 1200px;
+	height: auto;
+	margin: auto;
+	margin-top:-6px;
+	background-color: #644B48;
+/*	border: 1px solid #000;*/
+}
+.menulerimm_govde{
+	width: 410px;
+	height: 450px;
+	float:left;
+	margin-top:20px;
+	border-radius: 10px;
+	box-shadow: 0px 5px 10px 4px rgb(0 0 0/75%);
+background: #304352;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #d7d2cc, #304352);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #d7d2cc, #304352); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+/*	border: 1px solid #000;*/
+}
+.menulerimiz_sol{
+	width:130px;
+	height:110px;
+	float: left;
+	text-align: center;
+	margin-top:20px;
+	margin-right:20px;
+	margin-left:20px;
+	color: #fff;
+	cursor:pointer;
+	padding: 5px;
+	border-radius: 10px;
+	box-shadow: 2px 5px 10px 4px rgb(0 0 0 / 40%);
+	border: 1px solid #535151;
+}
+.menulerimiz_sol:hover{
+	background-color: #DCD9D9;
+	color: #070660;
+	transition-property: background-color;
+    transition-duration: 2s;
+}
+.menulerimiz_sag{
+	width:130px;
+	height:110px;
+	float: left;
+	text-align: center;
+	margin-top:20px;
+	color: #fff;
+	cursor:pointer;
+	padding: 5px;
+	border-radius: 10px;
+	box-shadow: 2px 5px 10px 4px rgb(0 0 0 / 40%);
+	border: 1px solid #535151;
+}
+.menulerimiz_sag:hover{
+	background-color: #DCD9D9;
+	color: #070660;
+	transition-property: background-color;
+    transition-duration: 2s;
+	
+}
+.cikiss{
+	width: 50px;
+	height: 50px;
+	float: right;
+	color: #fff;
+	padding: 1px;
+	margin-top: -263px;
+	border-radius: 10px;
+	box-shadow: 2px 5px 10px 4px rgb(0 0 0 / 40%);
+	border: 1px solid #535151;
+}
+.cikiss:hover{
+	background-color: #DCD9D9;
+	color: #070660;
+	transition-property: background-color;
+    transition-duration: 2s;
+}
+.body{
+	width: 700px;
+	height:auto;
+	margin: auto;
+	margin-top:20px;
+	float:right;
+	border: 1px solid #000;
+    box-shadow: 0px 5px 10px 4px rgb(0 0 0 / 75%);
+	background-color: #9a9ea0;
+
+}
+
+
+

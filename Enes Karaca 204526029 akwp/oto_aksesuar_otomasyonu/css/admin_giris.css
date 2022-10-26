@@ -1,0 +1,160 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+body{
+background: #a8c0ff;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #3f2b96, #a8c0ff);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #3f2b96, #a8c0ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.hizalama_bitir{clear:both;}
+
+a{text-decoration:none;
+	color:#000;
+}
+
+.body_resim_gecisli{
+background: #a8c0ff;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #3f2b96, #a8c0ff);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #3f2b96, #a8c0ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.giris_ana_divim{
+/*	border: 1px solid #000;*/
+	border-radius: 12px;
+	width: 460px;
+	height: 285px;
+	margin: auto;
+	margin-top: 85px;
+	margin-bottom: 50px;
+	padding: 40px 43px 27px;
+background: #373B44;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #4286f4, #373B44);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.admine_giris_yapin{
+	border: 1px solid #000;
+	width: 221px;
+	height: 24px;
+	margin: auto;
+	margin-bottom: 40px;
+	cursor: pointer;
+}
+.admin_giris_ekrani_logom{
+/*	border: 1px solid #000;*/
+	width: 80px;
+	height: 80px;
+	margin-top:-20px;
+	margin:auto;
+	text-align: center;
+	cursor: pointer;
+	/*background-image: url("../otomasyon_php_images/giris_logom.png");
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
+.giris_yapin{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	font-size: 20px;
+	color: #fff;
+	margin: auto;
+	text-align: center;
+	margin-bottom: 10px;
+}
+.kullanici_girisi{
+    border: 1px solid hsla(0,0%,60.4%,.5);
+	border-radius: 2px;
+	width: 344px;
+	height: 45px;
+	margin: auto;
+	font-family: Roboto,sans-serif;
+    font-size: 16px;
+    background: #fff;
+    color: #000;
+	margin-bottom: 20px;
+}
+
+.e_mail{
+	border: 1px solid #000;
+	width: 344px;
+	height: 45px;
+	margin: auto;
+	color: #000;
+	font-weight: 400;
+	font-size: 16px;
+}
+.sifre_girisi{
+    border: 1px solid hsla(0,0%,60.4%,.5);
+	border-radius: 2px;
+	width: 344px;
+	height: 45px;
+	margin: auto;
+	font-family: Roboto,sans-serif;
+    font-size: 16px;
+    background: #fff;
+    color: #000;
+	cursor: pointer;
+}
+.sifre{
+	border: 1px solid #000;
+	width: 344px;
+	height: 45px;
+	margin: auto;
+	font-size: 16px;
+	cursor: pointer;
+}
+.sifremi_unuttum{
+	border: 1px solid #000;
+	width: 105px;
+	height: 17px;
+	float: right;
+	font-family: Roboto,sans-serif;
+    font-size: 14px;
+	color: #9a9a9a;
+	margin-top: 15px;
+	text-decoration: underline;
+	margin-right: 30px;
+	margin-bottom: 25px;
+	cursor: pointer;
+}
+.giris_dugme{
+/*  border: 1px solid #5F5F5F;*/
+	width: 344px;
+	height: 45px;
+	margin: auto;
+	font-family: Roboto,sans-serif;
+    color: #FFFFFF;
+	margin-top: 20px;
+	cursor: pointer;
+	text-align: center;
+	border-radius: 8px;
+background: #373B44;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #4286f4, #373B44);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.giris_dugme:hover{
+	box-shadow: 2px 5px 10px 4px rgb(0 0 0 / 92%);
+}
+input{
+/*	border: 1px solid #5F5F5F;*/
+	border-radius: 8px;
+	width: 120px;
+	height: 30px;
+	text-align: center;
+	margin: auto;
+	font-weight: 300;
+	font-size: 20px;
+	margin-top: 8px;
+	box-shadow: 2px 5px 10px 4px rgb(0 0 0 / 44%);
+	cursor: pointer;
+}
+input:hover{
+	box-shadow: 2px 5px 10px 4px rgb(0 0 0 / 92%);
+}
+
+
+
+

@@ -1,0 +1,153 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+.hizalama_bitir{clear:both;}
+
+a{text-decoration:none;
+	color: #535353;
+}
+.body_kategorim{
+	border-radius: 10px;
+	background-color: #9a9ea0;
+
+}
+.oto_aksesuara_hosgeldiniz{
+	width: 500px;
+	height: 30px;
+	font-weight: 700;
+	text-align:center;
+	margin: auto;
+	margin-top:20px;
+	color:#700305;
+/*	border: 1px solid #000;*/
+}
+.kategori_bilgisi_ana{
+	width: 500px;
+	height: 120px;
+	margin: auto;
+background: #304352;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #d7d2cc, #304352);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #d7d2cc, #304352); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.kayit_islemi{
+	width: 200px;
+	color:#fff;
+	margin: auto;
+/*	border: 1px solid #000;*/
+	
+}
+.kategori_divi{
+	width: 500px;  
+	height: 140px;
+	margin: auto;
+	background-color: #9a9ea0;
+/*	border: 1px solid #000;*/
+}
+.kategori_govde_ic_kutu{
+	width: 450px;
+	height: 135px;
+	margin: auto;
+/*	border: 1px solid #000;*/
+}
+.kategori_bilgileri_yazi{
+	width: 135px;
+	height: auto;
+	margin: auto;
+	font-size:16px;
+	font-weight:600;
+	color:#700305;
+	margin-top:20px;
+/*	border: 1px solid #000;*/
+}
+.kategori_adi{
+	width: 90px;
+	height: auto;
+	float: left;
+	text-align: center;
+	font-size:14px;
+	font-weight:600;
+	margin-left:120px;
+	margin-right:5px;
+	margin-top:18px;
+	color:#fff;
+/*	border: 1px solid #000;*/
+}
+.kategori_adi_input{
+	float: left;
+	margin-top:15px;
+	border-radius: 5px;
+
+}
+.kaydet_yazi{
+	width: auto;
+	height: auto;
+	float: left;
+	font-weight:600;
+	margin-top:20px;
+	margin-left:185px;
+	color:#fff;
+/*	border: 1px solid #000;*/
+}
+.kaydet_input{
+	width: 100px;
+	height: auto;
+	border-radius: 5px;
+	cursor:pointer;
+}
+.kaydet_input:hover{
+	transition-duration: 1s;
+	background-color:#8588C9;
+	opacity: 1.1;
+	box-shadow: 2px 5px 10px 4px rgb(0 0 0 / 40%);
+}
+.kategori_govde
+{
+	width: 700px;
+	height: auto;
+	margin: auto;
+	background-color: #777474;
+/*	border: 1px solid #000;*/
+}
+.kategori_baslik
+{
+	width: 700px;
+	height: 30px;
+/*	margin: auto;	*/
+/*	border: 1px solid #000;*/
+}
+.kategori_no_k
+{
+	width: auto;
+	height: auto;
+	float: left;
+/*	margin-right:90px;*/
+	margin-left:45px;
+	color: #fff;
+	padding: 5px;
+/*	border: 1px solid #000;*/
+}
+.kategori_k
+{
+	width: auto;
+	height: auto;
+	float: left;
+/*	margin-right:90px;*/
+	margin-left:160px;
+	color: #fff;
+	padding: 5px;
+/*	border: 1px solid #000;*/
+}
+.kategori_islem_k
+{
+	width: auto;
+	height: auto;
+	float: left;
+	margin-left: 180px;
+/*	margin-right:-100px;*/
+	color: #fff;
+	padding: 5px;
+/*	border: 1px solid #000;*/
+}

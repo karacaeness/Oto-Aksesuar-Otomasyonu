@@ -1,0 +1,167 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.hizalama_bitir{clear:both;}
+
+a{text-decoration:none;
+	color: #535353;
+}
+.musteri_bilgisi_ana_div{
+	width: 550px;
+	height: 255px;
+	margin: auto;
+/*	border: 1px solid #000;*/
+}
+.kullanici_bigileri_genel_div{
+	width: 500px;
+	height: 250px;
+	margin: auto;
+/*	border: 1px solid #000;*/
+}
+.musteri_bilgi_ic_kutu_div{
+	width: 530px;
+	height: 240px;
+	margin: auto;
+/*	border: 1px solid #000;*/
+	
+}
+.musteri_bilgisi{
+	width: 130px;
+	height: auto;
+	margin: auto;
+	font-weight: 600;
+	font-size:16px;
+	color: #700305;
+	text-align: center;
+	margin-bottom: 30px;
+	margin-top:20px;
+/*	border: 1px solid #000;*/
+}
+.musteri_adi{
+	width: 120px;
+	height: auto;
+	margin: auto;
+	color: #fff;
+	font-weight: 600;
+	margin-bottom: 10px;
+	float: left;
+	text-align: center;
+	margin-left: 148px;
+/*	border: 1px solid #000;*/
+}
+.musteri_adi_input{
+	width: 120px;
+	height: auto;
+	margin-left: 15px;
+	border-radius: 5px;
+}
+.musteri_soyadi{
+	width: 120px;
+	height: auto;
+	margin: auto;
+	color: #fff;
+	font-weight: 600;
+	text-align: center;
+	margin-bottom: 10px;
+	float: left;
+	margin-left: 148px;
+/*	border: 1px solid #000;*/
+}
+.musteri_soyadim_input{
+	width: 120px;
+	height: auto;
+	margin-left: 15px;
+	border-radius: 5px;
+}
+.firma_adi{
+	width: 120px;
+	height: auto;
+/*	margin: auto;*/
+	color: #fff;
+	font-weight: 600;
+	text-align: center;
+	margin-bottom: 10px;
+	float: left;
+	margin-left: 148px;
+/*	border: 1px solid #000;*/
+}
+.firma_adi_input{
+	width: 120px;
+	height: auto;
+	margin-left: 15px;
+	border-radius: 5px;
+}
+.e_posta{
+	width: 120px;
+	height: auto;
+/*	margin: auto;*/
+	color: #fff;
+	font-weight: 600;
+	text-align: center;
+	margin-bottom: 10px;
+	float: left;
+	margin-left: 148px;
+/*	border: 1px solid #000;*/
+}
+.e_posta_adi_input{
+	width: 120px;
+	height: auto;
+	margin-left: 15px;
+	border-radius: 5px;
+}
+.telefon{
+	width: 120px;
+	height: auto;
+/*	margin: auto;*/
+	color: #fff;
+	font-weight: 600;
+	text-align: center;
+	margin-bottom: 10px;
+	float: left;
+	margin-left: 148px;
+/*	border: 1px solid #000;*/
+}
+.telefon_adi_input{
+	width: 120px;
+	height: auto;
+	margin-left: 15px;
+	border-radius: 5px;
+}
+.kaydet{
+	width: auto;
+	height: auto;
+	margin: auto;
+	color: #000;
+	font-weight: 600;
+	text-align: center;
+	margin-bottom: 10px;
+	margin-top:15px;
+	float: left;
+	margin-left: 60px;
+  /*border: 1px solid #000;*/
+}
+.kaydetmek_input:hover
+{
+	transition-duration: 1s;
+	background-color:#8588C9;
+	opacity: 1.1;
+	box-shadow: 2px 5px 10px 4px rgb(0 0 0 / 40%);
+}
+.kaydetmek_input{
+	width: 100px;
+	height: auto;
+	margin-left: 168px;
+	cursor:pointer;
+	border-radius: 5px;
+}
+.musterim_k{
+	width: auto;
+	height: auto;
+	float: left;
+	color: #fff;
+	font-weight: 600;
+	font-size: 15px;
+/*	border: 1px solid #000;*/
+}
+

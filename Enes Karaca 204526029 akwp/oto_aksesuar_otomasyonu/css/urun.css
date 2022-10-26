@@ -1,0 +1,190 @@
+@charset "utf-8";
+/* CSS Document */
+
+.hizalama_bitir{clear:both;}
+
+a{text-decoration:none;
+	color: #535353;
+}
+.body_kategorim{
+	border-radius: 10px;
+	background-color: #9a9ea0;
+
+}
+.body_urun_ana{
+	background-color: #777474;
+}
+.urun_bilgisi_ana{
+	background-color: #9a9ea0;
+}
+.urun_genel_div{
+/*	border: 1px solid #000;*/
+	width: 500px;
+	height: 185px;
+	margin: auto;
+	background-color: #9a9ea0;
+}
+.u_bilgileri_govde{
+	width: 500px;
+	height: 200px;
+	margin: auto;
+/*	border: 1px solid #000;*/
+}
+.urun_bilgilerim{
+	
+	width: 100px;
+	height: auto;
+	font-size:16px;
+	font-weight:600;
+	color:#700305;
+	margin-bottom: 10px;
+	margin:auto;
+	margin-top:20px;
+/*	border: 1px solid #000;*/
+}
+.urun_kategori{
+	width: 90px;
+	height: auto;
+	float: left;
+	text-align: center;
+	font-size:16px;
+	font-weight:600;
+	color:#fff;
+	margin-left:150px;
+	margin-top: 10px;
+/*	border: 1px solid #000;*/
+}
+.urun_kategori_input{
+	margin-top: 10px;
+	margin-left:15px;
+}
+.urun_adi{
+	width: 90px;
+	height: auto;
+	float: left;
+	text-align: center;
+	font-size:16px;
+	font-weight:600;
+	color:#fff;
+	margin-left:150px;
+	margin-top: 10px;
+/*	border: 1px solid #000;*/
+}
+.urun_adi_input{
+	width: 100px;
+	margin-top: 10px;
+	margin-left:15px;
+	border-radius: 5px;
+}
+.urun_fiyat{
+	width: 90px;
+	height: auto;
+	float: left;
+	text-align: center;
+	font-size:16px;
+	font-weight:600;
+	color:#fff;
+	margin-left:150px;
+	margin-top: 10px;
+/*	border: 1px solid #000;*/
+}
+.urun_fiyat_input{
+	width: 100px;
+	margin-top: 10px;
+	margin-left:15px;
+	border-radius: 5px;
+	cursor:pointer;
+}
+
+.urun_kaydet{
+	/*border: 1px solid #000;*/
+	width: 52px;
+	margin-top: 20px;
+	height: auto;
+	margin: auto;
+	margin-left: 210px
+}
+.kaydet{
+	width: 100px;
+	height: auto;
+	margin-top:20px;
+	border-radius: 5px;
+	cursor:pointer;
+}
+.kaydet:hover{
+	background-color: #fff;
+    color: #070660;
+	transition-duration: 1s;
+	background-color:#8588C9;
+	opacity: 1.1;
+	box-shadow: 2px 5px 10px 4px rgb(0 0 0 / 40%);
+}
+.alt_govdem{
+/*	border: 1px solid #000;*/
+	width: 700px;
+	height: auto;
+	margin: auto;
+}
+.urunlerimiz{
+/*	border: 1px solid #000;*/
+	width: 700px;
+	height: 30px;
+	margin: auto;
+	background-color:#777474;
+}
+
+.urun_kod{
+	width: auto;
+	height: auto;
+	float: left;
+	color: #fff;
+	margin-left: 0px;
+	margin-right: 80px;
+	padding: 5px;
+/*	border: 1px solid #000;*/
+}
+.kategori_adi{
+	width: auto;
+	height: auto;
+	float: left;
+	color: #fff;
+	margin-right: 120px;
+	padding: 5px;
+/*	border: 1px solid #000;*/
+}
+.urun_adim{
+	width: auto;
+	height: auto;
+	float: left;
+	color: #fff;
+	margin-right: 50px;
+	padding: 5px;
+/*	border: 1px solid #000;*/
+}
+.urun_fiyatim{
+	width: auto;
+	height: auto;
+	float: left;
+	color: #fff;
+	margin-right: 25px;
+	padding: 5px;
+/*	border: 1px solid #000;*/
+}
+.urun_kodu_islemim{
+	width: auto;
+	height: auto;
+	float: left;
+	color: #fff;
+	padding: 5px;
+/*	border: 1px solid #000;*/
+}
+
+
+
+
+
+
+
+
+
+
